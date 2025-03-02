@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmunbar065
-- 👀 I’m interested in strength technology, sports, politics and board games.
+- 👀 I’m interested in technology, sports, politics and board games.
 - 🌱 I’m currently learning programming by studying a CertHE in Software Development, currently in my 2/2 year
 - 💻 I'm also working as a Product Manager in Telecommunications at the moment
 
