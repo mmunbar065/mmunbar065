@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmunbar065
 - 👀 I’m interested in technology, literature, sports, politics and board games.
-- 🌱 I created this platform for uploading my personal coding projects.
-- 💻 I'm also working as a Product Manager in Telecommunications at the moment
+- 🌱 I created this platform as a portfolio
+- 💻 I'm working as a Product Manager in Telecommunications at the moment
 
 <!---
 mmunbar065/mmunbar065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
